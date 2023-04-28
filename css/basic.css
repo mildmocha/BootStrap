@@ -1,0 +1,11 @@
+@charset "UTF-8"; 
+body { font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.aa li a {font-size:13px}
+.bb div ul li a {font-size:14px ; color:black}
+ul {list-style : none}
+footer ul li {color:rgb(207,102,26)}
+footer ul {}
+footer a { color:black;
+    text-decoration: none; 
+  }
+.position-absolute {bottom:10px}
